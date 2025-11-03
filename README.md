@@ -55,7 +55,7 @@
 
 ### 🌐 Connect with Me
 
-- 🖥️ [Personal Website](https://shilojeyaraj.github.io/PersonalWebsite/)  
+- 🖥️ [Personal Website](https://shilojeyaraj.netlify.app/)  
 - 💼 [LinkedIn](https://linkedin.com/in/shilo-jeyaraj/)  
 - 📧 [shilojeyaraj@gmail.com](mailto:shilojeyaraj@gmail.com)
 
