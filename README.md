@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shilo Jeyarajasingam
 
-🎓 Mechatronics Engineering student at the University of Waterloo (BASc 2029)  
+🎓 Mechatronics Engineering student at the University of Waterloo 
 💡 Passionate about full-stack development, AI systems, and robotics innovation  
 🔍 Seeking a Summer 2026 co-op in software, AI, or robotics
 
