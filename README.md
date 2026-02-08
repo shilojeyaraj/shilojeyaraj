@@ -8,7 +8,7 @@
 
 ### 💼 Experience
 
-- **Software Engineering Intern @ Stealth Startup**
+- **Software Engineering Intern @  FriedmannAI**
   - Architected a **multi-agent LLM system** with OpenAI models, cutting product response time by 40% and token usage by 45%  
   - Built **real-time collaboration tools** integrating Zoom, Google Calendar, and Outlook APIs using React + Supabase Realtime  
   - Developed **automated testing pipelines** (pytest, CI/CD) covering 50+ API test cases, reducing regression issues by 30%  
