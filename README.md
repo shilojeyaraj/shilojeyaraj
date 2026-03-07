@@ -1,64 +1,19 @@
-# 👋 Hi there, I'm Shilo Jeyarajasingam
+# 💫 About Me:
+🎓 Mechatronics Engineering student at the University of Waterloo <br>💡 Passionate about full-stack development, ML/AI systems, and robotics innovation . <br>I love to build stuff
 
-🎓 Mechatronics Engineering student at the University of Waterloo 
-💡 Passionate about full-stack development, AI systems, and robotics innovation  
-🔍 Seeking a Summer 2026 co-op in software, AI, or robotics
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shilo.builds/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shilo-jeyaraj/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shilojeyaraj)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shilojeyaraj@gmail.com) 
 
-### 💼 Experience
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shilojeyaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shilojeyaraj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shilojeyaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- **Software Engineering Intern @  FriedmannAI**
-  - Architected a **multi-agent LLM system** with OpenAI models, cutting product response time by 40% and token usage by 45%  
-  - Built **real-time collaboration tools** integrating Zoom, Google Calendar, and Outlook APIs using React + Supabase Realtime  
-  - Developed **automated testing pipelines** (pytest, CI/CD) covering 50+ API test cases, reducing regression issues by 30%  
-  - Prototyped a **RAG (Retrieval-Augmented Generation)** system with LangChain + pgvector for context-aware responses  
-  - Authored technical documentation for APIs and deployment procedures to accelerate new engineer onboarding
-
-- **Full-Stack Engineering Intern @ [Normative](#)**
-  - Built and enhanced Normative’s internal platform using **JavaScript** and **Retool**, improving accessibility for 30+ users  
-  - Created an **OCR-based document processing system** using OpenAI APIs and Python, improving text accuracy by 75%  
-  - Designed an **AI-driven business proposal optimizer** testing 250+ prompt variations—boosting proposal quality by 40%
-
-- **Autonomy Team Member @ [Waterloo Aerial Robotics Group (WARG)](#)**
-  - Improved UAV landing precision via optimized object detection and control algorithms  
-  - Developed **computer vision pipelines** in Python for drone navigation accuracy  
-  - Collaborated on **system integration** of autonomy modules within the broader UAV platform
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shilojeyaraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧠 Projects
-
-- 🎮 **[Brain Battle](https://github.com/shilojeyaraj/brain-battle)** — AI Multiplayer Study Platform (EduHacks 2025)  
-  Real-time education platform using GPT-4o, LangChain, and Supabase. Features multiplayer sync, semantic search, and gamified XP ranking.
-
-- 💆‍♀️ **[DermaLens](https://github.com/shilojeyaraj/dermalens)** — AI Skincare Analysis Platform (Google Cloud AI Hackathon)  
-  Dual-model skincare system with PyTorch CNN + Gemini Pro API. Includes Elasticsearch-powered product search and GCP deployment.
-
-- 🏋️ **[Gym Posture Corrector](https://github.com/shilojeyaraj/gym-posture-corrector)**  
-  Real-time form feedback using MediaPipe, TensorFlow, and Flask for 92% accurate pose classification on custom datasets.
-
-- 📚 **[Coursley](https://github.com/shilojeyaraj/uw-coursley)**  
-  Semantic RAG-based course search for 550+ Waterloo Engineering electives. Built with Next.js, Supabase, LangChain, and GPT-4o-mini.
-
----
-
-### 🛠️ Technical Stack
-
-- **Languages:** Python, JavaScript/TypeScript, Java, C/C++, SQL, HTML/CSS  
-- **Frameworks & Libraries:** Next.js, React, FastAPI, Flask, Node.js, TensorFlow, PyTorch, OpenCV, LangChain, Tailwind CSS  
-- **Cloud & Infrastructure:** Google Cloud (BigQuery, Vertex AI, Cloud Run), AWS, Docker, Supabase, PostgreSQL, Elasticsearch, Linux  
-- **AI & Tools:** OpenAI API, GPT-4o, Gemini, Vector Embeddings, Fivetran, ROS 2, REST APIs  
-- **CAD/Mechanical:** AutoCAD, SolidWorks, Ansys, VEX Robotics  
-
----
-
-### 🌐 Connect with Me
-
-- 🖥️ [Personal Website](https://shilojeyaraj.netlify.app/)  
-- 💼 [LinkedIn](https://linkedin.com/in/shilo-jeyaraj/)  
-- 📧 [shilojeyaraj@gmail.com](mailto:shilojeyaraj@gmail.com)
-
----
-
-> ⚡ “Build. Break. Learn. Repeat.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
